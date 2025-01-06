@@ -27,15 +27,15 @@ $(document).ready(function(){
 
     //typing animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Developer", "Network Engineer", "Youtuber"],
-        typeSpeed: 100,
+        strings: ["DevOps Engineer", "Youtuber"],
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     })
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer", "Network Engineer", "Youtuber"],
-        typeSpeed: 100,
+        strings: ["DevOps Engineer", "Youtuber"],
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     })
